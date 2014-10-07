@@ -1,0 +1,24 @@
+{
+  "name": "Stalinist One",
+  "designer": "Multiple Designers",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 27193,
+  "fonts": [
+    {
+      "name": "Stalinist One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "StalinistOne-Regular.ttf",
+      "postScriptName": "StalinistOne-Regular",
+      "fullName": "Stalinist One",
+      "copyright": "Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalinist'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-08-20"
+}
